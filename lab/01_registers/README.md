@@ -44,4 +44,4 @@ The BOOT button is GPIO21. Once BOOT button is pressed, the status of the input 
 ## Demo GIF
 
 When the BOOT button is pressed, the Neopixel LED will be turned on.
-![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/IMG-1856.gif)
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/01_registers/ESE519_Lab2B_part1.gif)
