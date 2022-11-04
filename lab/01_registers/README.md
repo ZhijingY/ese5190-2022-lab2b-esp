@@ -30,7 +30,7 @@ The BOOT button is GPIO21. Once BOOT button is pressed, the status of the input 
         uint32_t rgb = 0x00000000;
         set_pixel_color(rgb);
         while (true) {
-            if(!gpio_get(BOOT_PIN)) {
+            if(!gpio_get(BOOT_PIN)) { // gpio_get returns 0 if the the input status of PIN is set
                 rgb = 0x00123456;
                 set_pixel_color(rgb);
             } else {
