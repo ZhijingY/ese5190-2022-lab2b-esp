@@ -95,3 +95,5 @@ This prototype is a simple security system. The proximity sensor on APDS9960 wil
 The oscilloscope screenshot of I2C bus between RP2040 and APDS9960 is shown below:
 ![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/Screen%20Shot%202022-11-04%20at%202.40.43%20PM.png)
 
+The corresponding GIF is shown below. This shows the impact on the I2C signal when my finger approaches the sensor, resulting in the change in SDA.
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/05_i2c_traffic/IMG-1856.gif)
