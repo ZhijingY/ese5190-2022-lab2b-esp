@@ -90,6 +90,8 @@ This prototype is a simple security system. The proximity sensor on APDS9960 wil
         }
     }
 
+One thing to notice is that, for the i2c we need to specify the channel used upon init.
+
 ## Screenshot & GIF of oscilloscope result
 
 The oscilloscope screenshot of I2C bus between RP2040 and APDS9960 is shown below:
