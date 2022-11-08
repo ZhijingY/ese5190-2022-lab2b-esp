@@ -38,4 +38,4 @@ The code is still in progress. The issue now is to figure out how to access regi
 
 ## Demo GIF
 
-https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/_part2.gif
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/_part2.gif)
