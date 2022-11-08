@@ -8,7 +8,7 @@
 
 ## How the prototype works
 
-Once the program starts, on the console it will ask the user to input the register address and decide whether to read or write. Then it will perform the expected reading or writing, and print a success message on the screen.
+Once the program starts, on the console it will ask the user to input the register address and decide whether to read or write. Then it will perform the expected reading or writing, and print a confirmation message on the screen.
 
 ## Code
 
@@ -62,10 +62,11 @@ Once the program starts, on the console it will ask the user to input the regist
         return 0;
     }
 
-    
-The code is still in progress. The issue now is to figure out how to access registers inside the MCU and the function reponsible for fetching data/reading data.
+The set_pixel_color() is to confirm that the program is successfully running on the board.
 
 
 ## Demo GIF
 
 ![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/02_repl/_part2.gif)
+
+In this demo, I tried to read from register 0x40030000, the BUS_PRIORITY register. The value read is 0. Then I tried to write 0x1 into the register, and the confirmation message shows that the value was successfully written into the register.
