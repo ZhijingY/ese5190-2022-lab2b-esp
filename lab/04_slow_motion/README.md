@@ -116,7 +116,7 @@ The first set_pixel_color() is to confirm that the program is successfully runni
 
 ## Demo Video
 
-https://youtu.be/LhURo-ZxE8I
+[https://youtu.be/LhURo-ZxE8I](https://youtu.be/xjiijC5IjfI)
 
 In this demo, I showed two rounds of recording and replaying of the BOOT button pressing sequence, and I tested different replay speed.
 
