@@ -8,7 +8,7 @@
 
 ## How the prototype works
 
-Once the program starts, on the console it will ask the user to input the register address and decide whether to read or write. Then it will perform the expected reading or writing, and print a confirmation message on the screen.
+Once the program starts, on the console it will ask the user to type c to start recording the BOOT button pressing for 10 seconds, then the sequence will be replayed.
 
 ## Code
 
