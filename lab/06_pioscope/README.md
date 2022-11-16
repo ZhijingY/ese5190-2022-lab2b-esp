@@ -10,7 +10,7 @@
 
 ## How the prototype works
 
-Once the program starts, on the console it will ask the user to type c to start recording the BOOT button pressing for 10 seconds, then the sequence will be replayed in the speed chosen by the user.
+Once the program starts, we can press the BOOT button to monitor the data transfer over I2C on pin 22 and pin 23.
 
 ## Code
 
