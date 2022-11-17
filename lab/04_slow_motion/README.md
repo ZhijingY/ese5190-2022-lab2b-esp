@@ -8,7 +8,7 @@
 
 ## How the prototype works
 
-Once the C code is run on RP2040 and Python is run on CPU, on the console it will ask the user to type c to start recording the BOOT button pressing for 10 seconds, then the sequence will be replayed in the speed chosen by the user.
+Once the C code is run on RP2040 and Python is run on CPU, on the console it will ask the user to either start recording the BOOT button pressing for 10 seconds, or replay the sequence in the speed chosen by the user. Python is in charge of literal input.
 
 ## Code
 
