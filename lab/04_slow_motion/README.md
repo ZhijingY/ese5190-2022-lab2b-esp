@@ -103,7 +103,7 @@ The code above is the part4.c. [Python code](https://github.com/ZhijingY/ese5190
 
 ## Demo Video
 
-https://youtu.be/xjiijC5IjfI
+https://youtu.be/h6rITi-CL-Y
 
 In this demo, I showed two rounds of recording and replaying of the BOOT button pressing sequence, and I tested different replay speed.
 
