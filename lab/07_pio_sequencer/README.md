@@ -196,7 +196,7 @@ Once the program starts, on the console it will ask the user to type c to start 
     }
 
 
-The first set_pixel_color() is to confirm that the program is successfully running on the board.
+The first set_pixel_color() is to confirm that the program is successfully running on the board. Python code is given [here](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/part_4.py).
 
 
 ## Demo Video
