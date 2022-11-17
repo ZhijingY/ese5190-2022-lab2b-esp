@@ -8,7 +8,7 @@
 
 ## How the prototype works
 
-Once the program starts, on the console it will ask the user to type c to start recording the BOOT button pressing for 10 seconds, then the sequence will be replayed in the speed chosen by the user.
+Once the C code is run on RP2040 and Python is run on CPU, on the console it will ask the user to type c to start recording the BOOT button pressing for 10 seconds, then the sequence will be replayed in the speed chosen by the user.
 
 ## Code
 
@@ -93,12 +93,12 @@ Once the program starts, on the console it will ask the user to type c to start 
                     }
                     break;
 
-                }
-            }
-        }
+              }
+          }
+      }
 
 
-The first set_pixel_color() is to confirm that the program is successfully running on the board.
+The code above is the part4.c. [Python code](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/04_slow_motion/part_4.py) is included in my github repo.
 
 
 ## Demo Video
