@@ -28,7 +28,7 @@ The sensor will keep monitoring the brightness, proximity and RGB values on one 
 
 The main C code is presented here. The other relevant files have also been uploaded.
 
-## Demo GIF
+## Demo Video
 
 The demo Video is shown below:
 
