@@ -33,6 +33,9 @@ The main C code is presented [here](https://github.com/ZhijingY/ese5190-2022-lab
 One clip of the PIO I2C bus trasaction of RGBC and proximity data between RP2040 and APDS9960 is shown below:
 ![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9_1.png)
 
+A part of the bus is shown below, where we can see a "jitter"
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9_2.png)
+
 ## Demo Video
 
 The demo Video is shown below:
