@@ -23,9 +23,11 @@ The [main C code](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/l
     
 This line needs to be added at the end of bitloop to reset the input bit counter, or the values of RGBC and proximity will not be refreshed and recorded.
 
-## Demo Video
+## Demo GIF
 
-https://youtu.be/h6rITi-CL-Y
+The demo GIF is shown below:
 
-In this demo same as the one given in Part 4, I showed two rounds of recording and replaying of the BOOT button pressing sequence, and I tested different replay speed.
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/08_adps_protocol/part8.gif)
+
+In this demo GIF, I mainly tested the proximity measurement performance.
 
