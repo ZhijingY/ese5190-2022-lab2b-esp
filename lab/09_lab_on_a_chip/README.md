@@ -33,7 +33,7 @@ The main C code is presented [here](https://github.com/ZhijingY/ese5190-2022-lab
 One clip of the PIO I2C bus trasaction of RGBC and proximity data between RP2040 and APDS9960 is shown below:
 ![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9_1.png)
 
-A part of the bus is shown below, where we can see a "jitter"
+A part of the bus is shown below, where we can see a "jitter" at the second pulse of the SDA bus(the upper one). Apparently that pulse shows up a bit slower than expected compared to the others: it occurs not exactly at the falling edge of SCL pulse.
 ![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9_2.png)
 
 ## Demo Video
