@@ -26,7 +26,7 @@ The sensor will keep monitoring the brightness, proximity and RGB values on one 
 
 ## Code
 
-The main C code is presented here. The other relevant files have also been uploaded.
+The main C code is presented [here](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9.c). The other relevant files have also been uploaded.
 
 ## Demo Video
 
