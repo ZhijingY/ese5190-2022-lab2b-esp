@@ -28,6 +28,11 @@ The sensor will keep monitoring the brightness, proximity and RGB values on one 
 
 The main C code is presented [here](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9.c). The other relevant files have also been uploaded.
 
+## Visualization of I2C bus
+
+One clip of the PIO I2C bus trasaction of RGBC and proximity data between RP2040 and APDS9960 is shown below:
+![a](https://github.com/ZhijingY/ese5190-2022-lab2b-esp/blob/main/lab/09_lab_on_a_chip/part9_1.png)
+
 ## Demo Video
 
 The demo Video is shown below:
